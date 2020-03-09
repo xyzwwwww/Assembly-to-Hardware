@@ -1,0 +1,12 @@
+
+To approach this project it is very important to start from a practical 
+view point - why?
+
+1. Given the scope of the project, it is very easy to get lost.
+2. I am not a hardware or a verilog designer - hence, there is a high
+chance I might end up doing a lot of work  that is not my area and
+will require a lot of time. 
+3. RISC-V implementations from blue spec seems like a good option
+	- despite being low performance, it gives us a good place to start from
+	- we can later move on to other designs from bluespec (?) 
+4. 
