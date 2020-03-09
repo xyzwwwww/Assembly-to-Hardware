@@ -18,3 +18,7 @@ Some questions right now?
 - General Insights - Insights in the area and some important things to remember
 
 
+ISA                                                System level architecture
+- Instructions                                     - Micro ops
+
+
