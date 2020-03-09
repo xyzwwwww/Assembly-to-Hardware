@@ -18,7 +18,19 @@ Some questions right now?
 - General Insights - Insights in the area and some important things to remember
 
 
-ISA                                                System level architecture
-- Instructions                                     - Micro ops
+ISA                                               
+- Instructions  
+- Memory model (for consistency) - general rules (not hardware specific)
+- 
 
+
+System level architecture
+- Micro ops
+- Actual concurrent execution - implementation layer
+- Caches (?)
+- Hardware interrupts 
+- Memory management (la la)
+
+
+TBA: Selecting the chunks out of these and why? - la la la
 
