@@ -1,0 +1,15 @@
+Current projects and humans in the area:
+
+- John harrison - floating points implementation correctness
+- UIUC Folks - Sarita Adve and Vikram Adve's lab - K framework 
+- UT-Austin - Warren Hunt - ACL2
+- Adam chipala - He is looking at simple clean slate designs from rtl and 
+application layer
+- Magnus Myreen - Hardware application layer mapping
+
+
+------
+
+REMS and CHERI - these are more at the application layer that is the ISA layer
+they don't focus on the hardware layer...
+- 
