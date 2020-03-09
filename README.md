@@ -13,6 +13,7 @@ Some questions right now?
 
 
 
+Folder formats:
 - Category wise different papers in the area
 - Resources and links in the ResourceLR to the recent work that has been done in the area
 - General Insights - Insights in the area and some important things to remember
