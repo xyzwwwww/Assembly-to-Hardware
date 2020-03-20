@@ -12,4 +12,19 @@ application layer
 
 REMS and CHERI - these are more at the application layer that is the ISA layer
 they don't focus on the hardware layer...
-- 
+
+
+-----
+
+COURSES:
+
+Understanding ISA-Hardware mapping
+ -http://csapp.cs.cmu.edu/3e/students.html 
+ - 
+
+CIIS 240 - Upenn architecture course
+- https://www.cis.upenn.edu/~cdmurphy/cis240/resources.shtml
+- http://libtips.org/main/2B1D5E903A6E9EDC03B64405B01CF682
+- http://highered.mheducation.com/sites/0072467509/student_view0/source_code.html
+- https://www.cis.upenn.edu/~cdmurphy/cis240/schedule.shtml
+- https://www.cis.upenn.edu/~milom/cse240-Fall04/ (PPTs for course)
